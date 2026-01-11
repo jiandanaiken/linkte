@@ -1,0 +1,94 @@
+.g1-layer-small-black {
+    padding:5px 20px;
+    position:absolute;
+    font-size:18px;
+    line-height:24px;
+    color:#000;
+    background-color:rgb(255,255,255);
+    background-color:rgba(255,255,255, 0.75);
+}
+
+.g1-layer-small-white {
+    padding:5px 20px;
+    position:absolute;
+    font-size:18px;
+    line-height:24px;
+    color:#fff;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0, 0.75);
+}
+
+.g1-layer-medium-black {
+    padding:7px 20px;
+    position:absolute;
+    font-size:36px;
+    line-height:42px;
+    color:#000;
+    background-color:rgb(255,255,255);
+    background-color:rgba(255,255,255, 0.75);
+}
+
+.g1-layer-medium-white {
+    padding:7px 20px;
+    position:absolute;
+    font-size:36px;
+    line-height:42px;
+    color:#fff;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0, 0.75);
+}
+
+.g1-layer-large-black {
+    padding:7px 20px;
+    position:absolute;
+    font-size:60px;
+    line-height:70px;
+    color:#000;
+    background-color:rgb(255,255,255);
+    background-color:rgba(255,255,255, 0.75);
+}
+
+.g1-layer-large-white {
+    padding:7px 20px;
+    position:absolute;
+    font-size:60px;
+    line-height:70px;
+    color:#fff;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0, 0.75);
+}
+
+.g1-layer-xlarge-black {
+    padding:7px 20px;
+    position:absolute;
+    font-size:84px;
+    line-height:98px;
+    color:#000;
+    background-color:rgb(255,255,255);
+    background-color:rgba(255,255,255, 0.75);
+}
+
+.g1-layer-xlarge-white {
+    padding:7px 20px;
+    position:absolute;
+    font-size:84px;
+    line-height:98px;
+    color:#fff;
+    background-color:rgb(0,0,0);
+    background-color:rgba(0,0,0, 0.75);
+}
+
+@import url(../../../../../css-OpenSans400800300700.css);
+
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
